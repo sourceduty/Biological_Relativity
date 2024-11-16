@@ -1,4 +1,4 @@
-![Biological Relativity](https://github.com/user-attachments/assets/b0bf9207-1cb5-4e5e-8e33-b93ba2e1420e)
+![Relativity](https://github.com/user-attachments/assets/b0bf9207-1cb5-4e5e-8e33-b93ba2e1420e)
 
 > Relative measurements and observations, influenced by the interaction between the observer and the phenomenon.
 #
