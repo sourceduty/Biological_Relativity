@@ -1,6 +1,6 @@
 ![Biological Relativity](https://github.com/user-attachments/assets/b0bf9207-1cb5-4e5e-8e33-b93ba2e1420e)
 
-> All living organisms share fundamental similarities in their biology and behavior due to evolutionary processes.
+> Relative measurements and observations, influenced by the interaction between the observer and the phenomenon.
 #
 
 Relativity, in its conceptual essence, refers to the understanding that measurements and observations are not absolute but depend on the relationship between the observer and the phenomenon being observed. This foundational principle asserts that quantities such as time, space, motion, and even simultaneity are not universally fixed but vary depending on the observer's frame of reference. In theoretical science, this perspective shifts the focus from isolated measurements to the interplay between objects, their velocities, and the spacetime context they inhabit. For instance, in Special Relativity, the observation of time and length changes depending on the relative velocity between the observer and the moving object, illustrating how perception is influenced by proportional relationships rather than absolutes.
