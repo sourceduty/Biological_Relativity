@@ -75,6 +75,8 @@ The symbol associated with "Biological Relativity" serves as a visual representa
 
 In the symbol, the curved lines may represent the non-linear and interdependent nature of biological systems, signifying that no process or entity operates in isolation. The horizontal bar suggests connectivity or interactions that bridge multiple levels of organization. The central square or intersection symbolizes equilibrium and the interconnectedness inherent in biological systems. Together, these elements visually reflect the idea that biology operates as a dynamic, multi-scale system where each level has contextual importance.
 
+The inspiration for this symbol, derived from the Pisces ♓︎ zodiac sign, reflects the interconnected and dualistic nature of Biological Relativity. Pisces, represented by two fish swimming in opposite directions but tethered together, symbolizes balance, reciprocity, and the interplay of opposing forces. Similarly, the concept of Biological Relativity emphasizes the interconnectedness of different levels of biological organization and the mutual influence they exert on one another. The curved lines in the symbol echo the flowing, dynamic nature of Pisces, while the central bar and square suggest equilibrium and interdependence, underscoring the idea that no single level holds a dominant position in biological causation. This connection to Pisces captures the essence of relational dynamics and balance at the heart of Biological Relativity.
+
 #
 ### Related Links
 
