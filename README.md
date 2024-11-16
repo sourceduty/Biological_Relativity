@@ -53,6 +53,14 @@ Expanding biological relativity could also involve leveraging modern computation
 [Einstein Game](https://github.com/sourceduty/Einstein_Game)
 <br>
 [Einstein Battle](https://github.com/sourceduty/Einstein_Battle)
+<br>
+[Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
+<br>
+[Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+<br>
+[Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
+<br>
+[Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
